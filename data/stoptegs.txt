@@ -1,0 +1,8 @@
+CD
+LS
+JJ
+JJR
+JJS
+PDT
+ORD
+CD
